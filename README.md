@@ -1,2 +1,3 @@
-# chocolate-pizza-2
-CSS work
+# Chocolate Pizza  
+
+CCS proof of concept project.
